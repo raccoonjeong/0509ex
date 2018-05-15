@@ -62,12 +62,12 @@
         <table class="alt">
             <thead>
             <tr>
-                <th>No.1</th>
+                <th>No.13</th>
             </tr>
             </thead>
             <tbody >
             <tr>
-                <td colspan="2"><strong>Title Title Title</strong></td>
+                <td colspan="2"><strong>제목입니다...</strong></td>
             </tr>
             <tr>
                 <td style="border-right: hidden; border-left: hidden;">Writer</td >
