@@ -77,8 +77,9 @@
             </tr>
             <tr>
                 <td colspan="2" >
-                    <div class="contentbox">Content..... Content..... Content.....Content..... Content.....
-                        Content.....Content..... Content..... Content.....Content..... Content..... Content.....</div>
+                    <div class="contentbox">가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사아자
+                    차카타파하가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사아자차카타파하가나다라마바사
+                    아자차카타파하가나다라마바사아자차카타파하</div>
                 </td>
             </tr>
             </tbody>
